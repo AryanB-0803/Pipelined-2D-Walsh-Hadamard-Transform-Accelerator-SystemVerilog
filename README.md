@@ -67,7 +67,7 @@ The result numbers obtained from synthesis and constraints applied are as follow
 
 The reports are as shown below :
 <p align="center">
-  <img src="results/TimingReports.png" width="500"/>
+  <img src="results/TimingReports.png" width="600"/>
 </p>
 <p align="center"><em>Timing summary (setup/hold slack)</em></p>
 
